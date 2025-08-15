@@ -2,7 +2,7 @@
 virtualmachines:
   - name: "rhel"
     image: "virt-rhel-9-5-01-27-25-rhel10isos"
-    memory: "2G"
+    memory: "4G"
     cores: 1
     image_size: "40G"
     tags:
